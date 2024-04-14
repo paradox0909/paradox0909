@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h3 align="center"> Tech Stack </h3>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paradox0909&show_icons=true&theme=radical)
 <img src="https://img.shields.io/badge/python-20232a.svg?style=for-the-badge&logo=python&logoColor=61DAFB" />
