@@ -1,4 +1,4 @@
-### Hi there 👋
+### 명준우 입니다.
 
 <!--
 **paradox0909/paradox0909** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
