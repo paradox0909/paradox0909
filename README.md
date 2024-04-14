@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 <h3 align="center"> Tech Stack </h3>
 <img src="https://img.shields.io/badge/python-20232a.svg?style=for-the-badge&logo=python&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/rust-20232a.svg?style=for-the-badge&logo=rust&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/web_hacking-20232a.svg?style=for-the-badge&logo=security&logoColor=61DAFB" />
