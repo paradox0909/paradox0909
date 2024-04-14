@@ -30,3 +30,13 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/web_hacking-20232a.svg?style=for-the-badge&logo=security&logoColor=61DAFB" />
 </div>
+
+</div>
+
+<h3 align="center"> Interested... </h3>
+<div align="center">
+
+<img src="https://img.shields.io/badge/web3-20232a.svg?style=for-the-badge&logo=web3&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/blockchain-20232a.svg?style=for-the-badge&logo=blockchain&logoColor=61DAFB" />
+</div>
+
