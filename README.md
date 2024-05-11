@@ -20,12 +20,12 @@ Here are some ideas to get you started:
 ### 기술 스택
 
 #### 개발 언어
-![Python](https://img.shields.io/badge/python-20232a.svg?style=for-the-badge&logo=python&logoColor=61DAFB)
-![Rust](https://img.shields.io/badge/rust-20232a.svg?style=for-the-badge&logo=rust&logoColor=61DAFB)
-![PHP](https://img.shields.io/badge/php-20232a.svg?style=for-the-badge&logo=php&logoColor=61DAFB)
-![Spring](https://img.shields.io/badge/spring-20232a.svg?style=for-the-badge&logo=spring&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/javascript-20232a.svg?style=for-the-badge&logo=javascript&logoColor=61DAFB)
-![HTML](https://img.shields.io/badge/html-20232a.svg?style=for-the-badge&logo=html5&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-orange.svg?style=for-the-badge&logo=rust&logoColor=white)
+![PHP](https://img.shields.io/badge/php-777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 #### 해킹 스택
 ![웹 해킹](https://img.shields.io/badge/web_hacking-20232a.svg?style=for-the-badge&logo=cmd&logoColor=61DAFB)
@@ -33,13 +33,13 @@ Here are some ideas to get you started:
 
 #### 도구 및 기술
 ##### 데이터베이스
-![MySQL](https://img.shields.io/badge/mysql-20232a.svg?style=for-the-badge&logo=mysql&logoColor=61DAFB)
-![Microsoft SQL Server](https://img.shields.io/badge/mssql-20232a.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=61DAFB)
-![Oracle DB](https://img.shields.io/badge/oracle_db-20232a.svg?style=for-the-badge&logo=oracle&logoColor=61DAFB)
-![Redis](https://img.shields.io/badge/redis-20232a.svg?style=for-the-badge&logo=redis&logoColor=61DAFB)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/mssql-CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Oracle DB](https://img.shields.io/badge/oracle_db-F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
 
 ##### Docker
-![Docker](https://img.shields.io/badge/docker-20232a.svg?style=for-the-badge&logo=docker&logoColor=61DAFB)
+![Docker](https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
