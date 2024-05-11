@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   - ![Django](https://img.shields.io/badge/django-092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 - ![Rust](https://img.shields.io/badge/rust-orange.svg?style=for-the-badge&logo=rust&logoColor=white)
   - ![actix_web](https://img.shields.io/badge/actix_web-5176b6.svg?style=for-the-badge&logo=rust&logoColor=white)
-
+- ![Spring Security](https://img.shields.io/badge/spring_security-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 #### 해킹 스택
 ![웹 해킹](https://img.shields.io/badge/web_hacking-20232a.svg?style=for-the-badge&logo=cmd&logoColor=61DAFB)
 ![IoT 해킹](https://img.shields.io/badge/IoT_Hacking-20232a.svg?style=for-the-badge&logo=IoT&logoColor=61DAFB)
@@ -37,6 +37,9 @@ Here are some ideas to get you started:
 ![Microsoft SQL Server](https://img.shields.io/badge/mssql-CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Oracle DB](https://img.shields.io/badge/oracle_db-F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
+
+##### AWS
+![Amazon Web Services](https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ##### Docker
 ![Docker](https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
