@@ -24,12 +24,17 @@ Here are some ideas to get you started:
 ![Python](https://img.shields.io/badge/python-20232a.svg?style=for-the-badge&logo=python&logoColor=61DAFB)
 ![Rust](https://img.shields.io/badge/rust-20232a.svg?style=for-the-badge&logo=rust&logoColor=61DAFB)
 ![PHP](https://img.shields.io/badge/php-20232a.svg?style=for-the-badge&logo=php&logoColor=61DAFB)
+![Spring](https://img.shields.io/badge/spring-20232a.svg?style=for-the-badge&logo=spring&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/javascript-20232a.svg?style=for-the-badge&logo=javascript&logoColor=61DAFB)
+![HTML](https://img.shields.io/badge/html-20232a.svg?style=for-the-badge&logo=html5&logoColor=61DAFB)
 
 #### 도구 및 기술
-![Docker](https://img.shields.io/badge/docker-20232a.svg?style=for-the-badge&logo=docker&logoColor=61DAFB)
+##### 데이터베이스
 ![MySQL](https://img.shields.io/badge/mysql-20232a.svg?style=for-the-badge&logo=mysql&logoColor=61DAFB)
 ![Microsoft SQL Server](https://img.shields.io/badge/mssql-20232a.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=61DAFB)
-![Linux](https://img.shields.io/badge/linux-20232a.svg?style=for-the-badge&logo=linux&logoColor=61DAFB)
+
+##### Docker
+![Docker](https://img.shields.io/badge/docker-20232a.svg?style=for-the-badge&logo=docker&logoColor=61DAFB)
 
 ---
 
