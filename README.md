@@ -1,6 +1,5 @@
 ### 안녕하세요, 명준우입니다! 👋
-안녕하세요. 신입 보안 엔지니어입니다.
-보안 솔루션, 취약점 진단을 주로 공부해왔습니다.
+
 
 ---
 
@@ -21,12 +20,12 @@ Here are some ideas to get you started:
 ### 기술 스택
 
 #### 개발 언어
-![Python](https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-orange.svg?style=for-the-badge&logo=rust&logoColor=white)
-![PHP](https://img.shields.io/badge/php-777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+- Python
+  - ![Selenium](https://img.shields.io/badge/selenium-43B02A.svg?style=for-the-badge&logo=selenium&logoColor=white)
+  - ![Flask](https://img.shields.io/badge/flask-000000.svg?style=for-the-badge&logo=flask&logoColor=white)
+  - ![Django](https://img.shields.io/badge/django-092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+- Rust
+  - ![actix_web](https://img.shields.io/badge/actix_web-5176b6.svg?style=for-the-badge&logo=rust&logoColor=white)
 
 #### 해킹 스택
 ![웹 해킹](https://img.shields.io/badge/web_hacking-20232a.svg?style=for-the-badge&logo=cmd&logoColor=61DAFB)
