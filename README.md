@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -->
 ### 기술 스택
 
-#### 개발 언어
+#### Skills
 - ![Python](https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
   - ![Selenium](https://img.shields.io/badge/selenium-43B02A.svg?style=for-the-badge&logo=selenium&logoColor=white)
   - ![Flask](https://img.shields.io/badge/flask-000000.svg?style=for-the-badge&logo=flask&logoColor=white)
@@ -27,6 +27,11 @@ Here are some ideas to get you started:
 - ![Rust](https://img.shields.io/badge/rust-orange.svg?style=for-the-badge&logo=rust&logoColor=white)
   - ![actix_web](https://img.shields.io/badge/actix_web-5176b6.svg?style=for-the-badge&logo=rust&logoColor=white)
 - ![Spring Security](https://img.shields.io/badge/spring_security-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+- ![PHP](https://img.shields.io/badge/php-777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 #### 해킹 스택
 ![웹 해킹](https://img.shields.io/badge/web_hacking-20232a.svg?style=for-the-badge&logo=cmd&logoColor=61DAFB)
 ![IoT 해킹](https://img.shields.io/badge/IoT_Hacking-20232a.svg?style=for-the-badge&logo=IoT&logoColor=61DAFB)
