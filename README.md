@@ -28,10 +28,16 @@ Here are some ideas to get you started:
 ![JavaScript](https://img.shields.io/badge/javascript-20232a.svg?style=for-the-badge&logo=javascript&logoColor=61DAFB)
 ![HTML](https://img.shields.io/badge/html-20232a.svg?style=for-the-badge&logo=html5&logoColor=61DAFB)
 
+#### 해킹 스택
+![웹 해킹](https://img.shields.io/badge/web_hacking-20232a.svg?style=for-the-badge&logo=cmd&logoColor=61DAFB)
+![IoT 해킹](https://img.shields.io/badge/IoT_Hacking-20232a.svg?style=for-the-badge&logo=IoT&logoColor=61DAFB)
+
 #### 도구 및 기술
 ##### 데이터베이스
 ![MySQL](https://img.shields.io/badge/mysql-20232a.svg?style=for-the-badge&logo=mysql&logoColor=61DAFB)
 ![Microsoft SQL Server](https://img.shields.io/badge/mssql-20232a.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=61DAFB)
+![Oracle DB](https://img.shields.io/badge/oracle_db-20232a.svg?style=for-the-badge&logo=oracle&logoColor=61DAFB)
+![Redis](https://img.shields.io/badge/redis-20232a.svg?style=for-the-badge&logo=redis&logoColor=61DAFB)
 
 ##### Docker
 ![Docker](https://img.shields.io/badge/docker-20232a.svg?style=for-the-badge&logo=docker&logoColor=61DAFB)
@@ -44,7 +50,5 @@ Here are some ideas to get you started:
 ![Web3](https://img.shields.io/badge/web3-20232a.svg?style=for-the-badge&logo=web3&logoColor=61DAFB)
 
 #### 보안
-![웹 해킹](https://img.shields.io/badge/web_hacking-20232a.svg?style=for-the-badge&logo=cmd&logoColor=61DAFB)
 ![블록체인](https://img.shields.io/badge/blockchain-20232a.svg?style=for-the-badge&logo=blockchain&logoColor=61DAFB)
 ![자율 주행 자동차 보안](https://img.shields.io/badge/autonomous_car_security-20232a.svg?style=for-the-badge&logo=car&logoColor=61DAFB)
-![IoT 해킹](https://img.shields.io/badge/IoT_Hacking-20232a.svg?style=for-the-badge&logo=IoT&logoColor=61DAFB)
