@@ -36,6 +36,11 @@ Here are some ideas to get you started:
 ![웹 해킹](https://img.shields.io/badge/web_hacking-20232a.svg?style=for-the-badge&logo=cmd&logoColor=61DAFB)
 ![IoT 해킹](https://img.shields.io/badge/IoT_Hacking-20232a.svg?style=for-the-badge&logo=IoT&logoColor=61DAFB)
 
+#### 운영 체제
+![Windows](https://img.shields.io/badge/Windows-0078D6.svg?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+![macOS](https://img.shields.io/badge/macOS-000000.svg?style=for-the-badge&logo=apple&logoColor=white)
+
 #### 도구 및 기술
 ##### 데이터베이스
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
