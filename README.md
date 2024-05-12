@@ -69,11 +69,3 @@ Here are some ideas to get you started:
 #### 보안
 ![블록체인](https://img.shields.io/badge/blockchain-20232a.svg?style=for-the-badge&logo=blockchain&logoColor=61DAFB)
 ![자율 주행 자동차 보안](https://img.shields.io/badge/autonomous_car_security-20232a.svg?style=for-the-badge&logo=car&logoColor=61DAFB)
-
-
-
-
-
-<a href="https://github.com/paradox0909/mail_security">
-    <img src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge">
-</a>
