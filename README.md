@@ -25,6 +25,7 @@ Here are some ideas to get you started:
   - ![Selenium](https://img.shields.io/badge/selenium-43B02A.svg?style=for-the-badge&logo=selenium&logoColor=white)
   - ![Flask](https://img.shields.io/badge/flask-000000.svg?style=for-the-badge&logo=flask&logoColor=white)
   - ![Django](https://img.shields.io/badge/django-092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Shell Script](https://img.shields.io/badge/shell_script-5391FE.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 - ![Rust](https://img.shields.io/badge/rust-orange.svg?style=for-the-badge&logo=rust&logoColor=white)
   - ![actix_web](https://img.shields.io/badge/actix_web-5176b6.svg?style=for-the-badge&logo=rust&logoColor=white)
 - ![Spring](https://img.shields.io/badge/spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
