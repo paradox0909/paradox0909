@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 - ![Solidity](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Solidity&logoColor=white)
 - ![PHP](https://img.shields.io/badge/php-777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white)
-  - ![Node.js]("https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white")
+- ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 - ![HTML](https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 - ![CSS](https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -66,7 +66,6 @@ Here are some ideas to get you started:
 
 ##### AWS
 ![Amazon Web Services](https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
-  ![EC2]("https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=Amazon%20EC2&logoColor=white")
 
 ##### Docker
 ![Docker](https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
