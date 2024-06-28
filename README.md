@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 
 #### 해킹 스택
 ![웹 해킹](https://img.shields.io/badge/Web_hacking-20232a.svg?style=for-the-badge&logo=cmd&logoColor=61DAFB)
-![BlockChain 해킹](https://img.shields.io/badge/BlockChain-Hacking-20232a.svg?style=for-the-badge&logo=IoT&logoColor=61DAFB)
+![BlockChain 해킹](https://img.shields.io/badge/BlockChain-Hacking-20232a.svg?style=for-the-badge&logo=cmd&logoColor=61DAFB)
 
 #### 운영 체제
 ![Windows](https://img.shields.io/badge/Windows-0078D6.svg?style=for-the-badge&logo=windows&logoColor=white)
