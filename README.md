@@ -4,9 +4,9 @@
 
 ---
 -교육-
-단국대학교부속소프트웨어고등학교 IoT SoftWare \n
-차세대 보안리더 양성 프로그램 (Best Of the Best) 12기 보안제품개발트랙 수료 \n
-K-shield.Jr 취약점 분석 트랙 수료 \n
+##### + 단국대학교부속소프트웨어고등학교 IoT SoftWare 
+##### + 차세대 보안리더 양성 프로그램 (Best Of the Best) 12기 보안제품개발트랙 수료
+##### + K-shield.Jr 취약점 분석 트랙 수료 \n
 
 
 ---
