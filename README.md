@@ -57,8 +57,8 @@ Here are some ideas to get you started:
 
 ---
 
-#### 해킹 스택
-![Web Hacking](https://img.shields.io/badge/Web_hacking-20232a.svg?style=for-the-badge&logo=Google-Chrome&logoColor=61DAFB)
+#### 취약점 분석
+![Web Hacking](https://img.shields.io/badge/Web_hacking-20232a.svg?style=for-the-badge&logo=Windows-Terminal&logoColor=61DAFB)
 ![BlockChain Hacking](https://img.shields.io/badge/BlockChain_hacking-20232a.svg?style=for-the-badge&logo=Ethereum&logoColor=61DAFB)
 
 #### 운영 체제
