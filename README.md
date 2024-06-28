@@ -39,8 +39,8 @@ Here are some ideas to get you started:
 - ![C](https://img.shields.io/badge/C-3776AB.svg?style=for-the-badge&logo=C&logoColor=white)
 - ![Solidity](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Solidity&logoColor=white)
 - ![PHP](https://img.shields.io/badge/php-777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=green)
-  - ![Node](https://img.shields.io/badge/node-43B02A.svg?style=for-the-badge&logo=selenium&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white)
+  - ![Node](https://img.shields.io/badge/node-43B02A.svg?style=for-the-badge&logo=node&logoColor=green)
 - ![HTML](https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 - ![CSS](https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
