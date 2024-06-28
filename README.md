@@ -3,6 +3,12 @@
 하기와 같은 기술을 구사 및 사용, 응용 가능합니다.
 
 ---
+-교육-
+단국대학교부속소프트웨어고등학교 IoT SoftWare
+차세대 보안리더 양성 프로그램 (Best Of the Best) 12기 보안제품개발트랙 수료
+K-shield.Jr 취약점 분석 트랙 수료
+---
+
 
 <!--
 **paradox0909/paradox0909** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -33,15 +39,16 @@ Here are some ideas to get you started:
 - ![C](https://img.shields.io/badge/C-3776AB.svg?style=for-the-badge&logo=C&logoColor=white)
 - ![Solidity](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Solidity&logoColor=white)
 - ![PHP](https://img.shields.io/badge/php-777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+- ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=green)
+  - ![Node](https://img.shields.io/badge/node-43B02A.svg?style=for-the-badge&logo=selenium&logoColor=white)
 - ![HTML](https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 - ![CSS](https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
 #### 해킹 스택
-![웹 해킹](https://img.shields.io/badge/web_hacking-20232a.svg?style=for-the-badge&logo=cmd&logoColor=61DAFB)
-![IoT 해킹](https://img.shields.io/badge/IoT_Hacking-20232a.svg?style=for-the-badge&logo=IoT&logoColor=61DAFB)
+![웹 해킹](https://img.shields.io/badge/Web_hacking-20232a.svg?style=for-the-badge&logo=cmd&logoColor=61DAFB)
+![BlockChain 해킹](https://img.shields.io/badge/BlockChain-Hacking-20232a.svg?style=for-the-badge&logo=IoT&logoColor=61DAFB)
 
 #### 운영 체제
 ![Windows](https://img.shields.io/badge/Windows-0078D6.svg?style=for-the-badge&logo=windows&logoColor=white)
@@ -65,9 +72,7 @@ Here are some ideas to get you started:
 
 ### 관심 분야
 
-#### 웹 개발
+####
 ![Web3](https://img.shields.io/badge/web3-20232a.svg?style=for-the-badge&logo=web3&logoColor=61DAFB)
-
-#### 보안
 ![블록체인](https://img.shields.io/badge/blockchain-20232a.svg?style=for-the-badge&logo=blockchain&logoColor=61DAFB)
 ![자율 주행 자동차 보안](https://img.shields.io/badge/autonomous_car_security-20232a.svg?style=for-the-badge&logo=car&logoColor=61DAFB)
