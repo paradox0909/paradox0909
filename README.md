@@ -66,6 +66,7 @@ Here are some ideas to get you started:
 
 ##### AWS
 ![Amazon Web Services](https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
+  ![EC2]("https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=Amazon%20EC2&logoColor=white")
 
 ##### Docker
 ![Docker](https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
