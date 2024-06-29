@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 
 #### 취약점 분석
 ![Web Hacking](https://img.shields.io/badge/Web_hacking-000000a.svg?style=for-the-badge&logo=Windows-Terminal&logoColor=black)
-![BlockChain Hacking](https://img.shields.io/badge/BlockChain_hacking-3C3C3Da.svg?style=for-the-badge&logo=Ethereum&logoColor=black)
+![BlockChain Hacking](https://img.shields.io/badge/BlockChain_hacking-000000a.svg?style=for-the-badge&logo=Ethereum&logoColor=black)
 
 #### 운영 체제
 ![Windows](https://img.shields.io/badge/Windows-0078D6.svg?style=for-the-badge&logo=windows&logoColor=white)
