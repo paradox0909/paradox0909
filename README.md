@@ -5,7 +5,7 @@
 
 ---
 
-#### 교육 및 수료 프로그램
+#### 교육 및 수료 프로그램 및 프로젝트 목록
 
 ##### 단국대학교부속소프트웨어고등학교 IoT SoftWare 학과
 - 졸업 예정 (2025.02)
@@ -14,12 +14,13 @@
 - 보안제품개발트랙 수료
 - 프로젝트 : 
   - DBMS 모니터링 솔루션 프로젝트
+- 개발톤 프로젝트 :
+  - Secure Database Search with RSA-based 1-out-of-n Oblivious Transfer 
 
 ##### K-shield.Jr
 - 취약점 분석 트랙 수료
 - 프로젝트 :
   - Web 3.0 기반 블록체인 CTF 개발 및 운영
-
 
 <!--
 **paradox0909/paradox0909** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
