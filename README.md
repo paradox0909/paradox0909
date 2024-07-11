@@ -5,7 +5,7 @@
 
 ---
 
-#### 교육 및 수료 프로그램 및 프로젝트 목록
+#### 소프트웨어 교육 목록
 
 ##### 단국대학교부속소프트웨어고등학교 IoT SoftWare 학과
 - 졸업 예정 (2025.02)
@@ -22,6 +22,12 @@
 - 프로젝트 :
   - Web 3.0 기반 블록체인 CTF 개발 및 운영
 
+--- 
+#### 프로젝트 목록
+##### Mail Security
+- https://github.com/paradox0909/mail_security
+
+#####
 <!--
 **paradox0909/paradox0909** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
