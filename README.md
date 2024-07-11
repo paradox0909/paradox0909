@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 ---
 
 #### 취약점 분석
-![Web Hacking](https://img.shields.io/badge/Web_hacking-000000a.svg?style=for-the-badge&logo=Windows-Terminal&logoColor=black)
+![Web Hacking](https://img.shields.io/badge/Web_hacking-000000a.svg?style=for-the-badge&logo=Terminal&logoColor=black)
 ![BlockChain Hacking](https://img.shields.io/badge/BlockChain_hacking-000000a.svg?style=for-the-badge&logo=Ethereum&logoColor=black)
 
 #### 운영 체제
