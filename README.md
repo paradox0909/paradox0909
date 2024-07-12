@@ -23,7 +23,7 @@
   - Web 3.0 기반 블록체인 CTF 개발 및 운영
 
 --- 
-#### 프로젝트 목록
+#### 개인 프로젝트 목록
 ##### Mail Security
 - https://github.com/paradox0909/mail_security
 
