@@ -90,7 +90,7 @@ Here are some ideas to get you started:
 ### Interested In... / Researching In...
 
 ####
-![Education](https://img.shields.io/badge/Hacking_Education_Teaching-20232a.svg?style=for-the-badge&logo=Education_Teaching&logoColor=61DAFB)
+##### Hacking_Education_Teaching
   - https://github.com/paradox0909/file_upload_vlun_practice
   - https://github.com/paradox0909/Injection_Practice_Form
   - https://github.com/paradox0909/cve-2022-30333_online_rar_extracor
