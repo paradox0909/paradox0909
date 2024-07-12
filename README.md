@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 -->
 ### 기술 스택
 
-#### Skills
+#### Developing Skills
 - ![Python](https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
   - ![Selenium](https://img.shields.io/badge/selenium-43B02A.svg?style=for-the-badge&logo=selenium&logoColor=white)
   - ![Flask](https://img.shields.io/badge/flask-000000.svg?style=for-the-badge&logo=flask&logoColor=white)
@@ -63,23 +63,23 @@ Here are some ideas to get you started:
 - ![CSS](https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ---
 
-#### 취약점 분석
+### Hacking Stack
 ![Web Hacking](https://img.shields.io/badge/Web_hacking-000000a.svg?style=for-the-badge&logo=Terminal&logoColor=black)
 ![BlockChain Hacking](https://img.shields.io/badge/BlockChain_hacking-000000a.svg?style=for-the-badge&logo=Ethereum&logoColor=black)
 
-#### 운영 체제
+#### Operating System
 ![Windows](https://img.shields.io/badge/Windows-0078D6.svg?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 ![macOS](https://img.shields.io/badge/macOS-000000.svg?style=for-the-badge&logo=apple&logoColor=white)
 
-#### 도구 및 기술
-##### 데이터베이스
+#### Tools and DataBase
+##### DataBase
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/mssql-CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Oracle DB](https://img.shields.io/badge/oracle_db-F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
 
-##### AWS
+##### AWS - EC2
 ![Amazon Web Services](https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ##### Docker
@@ -87,9 +87,10 @@ Here are some ideas to get you started:
 
 ---
 
-### 관심 분야
+### Interested In... / Researching In...
 
 ####
+![Education](https://img.shields.io/badge/web3-20232a.svg?style=for-the-badge&logo=Education_Teaching&logoColor=61DAFB)
 ![Web3](https://img.shields.io/badge/web3-20232a.svg?style=for-the-badge&logo=web3&logoColor=61DAFB)
 ![블록체인](https://img.shields.io/badge/blockchain-20232a.svg?style=for-the-badge&logo=blockchain&logoColor=61DAFB)
 ![자율 주행 자동차 보안](https://img.shields.io/badge/autonomous_car_security-20232a.svg?style=for-the-badge&logo=car&logoColor=61DAFB)
