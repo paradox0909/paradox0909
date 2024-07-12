@@ -26,7 +26,8 @@
 #### 개인 프로젝트 목록 (추가예정)
 ##### Mail Security
 - https://github.com/paradox0909/mail_security
-
+##### CCE Vulnerability Checker
+- https://github.com/paradox0909/cce
 ---
 <!--
 **paradox0909/paradox0909** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
