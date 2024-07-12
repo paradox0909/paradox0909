@@ -90,7 +90,10 @@ Here are some ideas to get you started:
 ### Interested In... / Researching In...
 
 ####
-![Education](https://img.shields.io/badge/BlockchainHacking_Education_Teaching-20232a.svg?style=for-the-badge&logo=Education_Teaching&logoColor=61DAFB)
+![Education](https://img.shields.io/badge/Hacking_Education_Teaching-20232a.svg?style=for-the-badge&logo=Education_Teaching&logoColor=61DAFB)
+  - https://github.com/paradox0909/file_upload_vlun_practice
+  - https://github.com/paradox0909/Injection_Practice_Form
+  - https://github.com/paradox0909/cve-2022-30333_online_rar_extracor
 ![Web3](https://img.shields.io/badge/web3-20232a.svg?style=for-the-badge&logo=web3&logoColor=61DAFB)
 ![블록체인](https://img.shields.io/badge/blockchain-20232a.svg?style=for-the-badge&logo=blockchain&logoColor=61DAFB)
 ![자율 주행 자동차 보안](https://img.shields.io/badge/autonomous_car_security-20232a.svg?style=for-the-badge&logo=car&logoColor=61DAFB)
