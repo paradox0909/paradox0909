@@ -90,7 +90,7 @@ Here are some ideas to get you started:
 ### Interested In...
 
 ####
-##### Hacking_Education_Teaching
+##### Hacking_Education & Teaching
   - https://github.com/paradox0909/file_upload_vlun_practice
   - https://github.com/paradox0909/Injection_Practice_Form
   - https://github.com/paradox0909/cve-2022-30333_online_rar_extracor
