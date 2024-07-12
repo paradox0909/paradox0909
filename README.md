@@ -90,7 +90,7 @@ Here are some ideas to get you started:
 ### Interested In... / Researching In...
 
 ####
-![Education](https://img.shields.io/badge/web3-20232a.svg?style=for-the-badge&logo=Education_Teaching&logoColor=61DAFB)
+![Education](https://img.shields.io/badge/Education_Teaching-20232a.svg?style=for-the-badge&logo=Education_Teaching&logoColor=61DAFB)
 ![Web3](https://img.shields.io/badge/web3-20232a.svg?style=for-the-badge&logo=web3&logoColor=61DAFB)
 ![블록체인](https://img.shields.io/badge/blockchain-20232a.svg?style=for-the-badge&logo=blockchain&logoColor=61DAFB)
 ![자율 주행 자동차 보안](https://img.shields.io/badge/autonomous_car_security-20232a.svg?style=for-the-badge&logo=car&logoColor=61DAFB)
