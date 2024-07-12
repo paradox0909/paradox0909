@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 ---
 
 ### Hacking Stack
-![Web Hacking](https://img.shields.io/badge/Web_hacking-000000a.svg?style=for-the-badge&logo=Terminal&logoColor=black)
+![Web Hacking](https://img.shields.io/badge/Web_hacking-000000a.svg?style=for-the-badge&logo=gnu-bash&logoColor=black)
 ![BlockChain Hacking](https://img.shields.io/badge/BlockChain_hacking-000000a.svg?style=for-the-badge&logo=Ethereum&logoColor=black)
 
 #### Operating System
