@@ -28,7 +28,7 @@
 - https://github.com/paradox0909/mail_security
 ##### CCE Vulnerability Checker
 - https://github.com/paradox0909/cce
-- 추가 예정
+※ 추가 예정
 ---
 <!--
 **paradox0909/paradox0909** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
