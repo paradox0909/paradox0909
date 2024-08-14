@@ -49,7 +49,6 @@ Here are some ideas to get you started:
 
 #### Developing Skills
 - ![Python](https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-  - ![Flask](https://img.shields.io/badge/flask-000000.svg?style=for-the-badge&logo=flask&logoColor=white)
   - ![Selenium](https://img.shields.io/badge/selenium-43B02A.svg?style=for-the-badge&logo=selenium&logoColor=white)
 - ![Shell Script](https://img.shields.io/badge/shell_script-5391FE.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 - ![Rust](https://img.shields.io/badge/rust-orange.svg?style=for-the-badge&logo=rust&logoColor=white)
