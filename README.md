@@ -60,11 +60,6 @@ Here are some ideas to get you started:
 ![Web Hacking](https://img.shields.io/badge/Web_hacking-000000a.svg?style=for-the-badge&logo=gnu-bash&logoColor=black)
 ![BlockChain Hacking](https://img.shields.io/badge/BlockChain_hacking-000000a.svg?style=for-the-badge&logo=Ethereum&logoColor=black)
 
-#### Operating System
-![Windows](https://img.shields.io/badge/Windows-0078D6.svg?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
-![macOS](https://img.shields.io/badge/macOS-000000.svg?style=for-the-badge&logo=apple&logoColor=white)
-
 #### Tools and DataBase
 ##### DataBase
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
