@@ -10,18 +10,19 @@
 ##### 단국대학교부속소프트웨어고등학교 IoT SoftWare 학과
 - 졸업 예정 (2025.02)
 
-##### 차세대 보안리더 양성 프로그램 (Best Of the Best) 12기
+##### 차세대 보안리더 양성 프로그램 (Best Of the Best) 12기 (23.07 ~ 24.03)
 - 보안제품개발트랙 수료
 - 프로젝트 : 
   - DBMS 모니터링 솔루션 프로젝트
 - 개발톤 프로젝트 :
   - Secure Database Search with RSA-based 1-out-of-n Oblivious Transfer 
 
-##### K-shield.Jr
+##### K-shield.Jr 12기 (24.05 ~ 24.07)
 - 취약점 분석 트랙 수료
 - 프로젝트 :
   - Web 3.0 기반 블록체인 CTF 개발 및 운영
 
+##### Kisa, Findthegap - 2024 버그헌팅 실습훈련
 --- 
 #### 개인 프로젝트 목록 (추가예정)
 ##### Mail Security
