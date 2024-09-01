@@ -1,6 +1,7 @@
 ##### 안녕하세요, 명준우입니다! 👐🖖🖖
-[Findthegap](http://findthegap.co.kr)이라는 Bug Bounty Flatform에서 취약점 평가를 하고 있는 명준우라고 합니다.
+[Findthegap](http://findthegap.co.kr)이라는 Bug Bounty Flatform에서 인턴으로 취약점 평가를 하고 있는 명준우라고 합니다.
 
+---
 다음과 같은 교육 경험과 경력을 보유하고 있으며,
 하기 서술된 기술 스택을 내림차순 순서대로 자유로운 구사 및 사용 및 응용이 가능합니다.
 
