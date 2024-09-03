@@ -61,11 +61,12 @@ Here are some ideas to get you started:
   - ![actix_web](https://img.shields.io/badge/actix_web-5176b6.svg?style=for-the-badge&logo=rust&logoColor=white)
 - ![Shell Script](https://img.shields.io/badge/shell_script-5391FE.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 - ![Solidity](https://img.shields.io/badge/Solidity-3C3C3D?style=for-the-badge&logo=Solidity&logoColor=white)
----
 
 ### Offensive Skills 
 ![Web Hacking](https://img.shields.io/badge/Web_hacking-000000a.svg?style=for-the-badge&logo=gnu-bash&logoColor=black)
 ![BlockChain Hacking](https://img.shields.io/badge/BlockChain_hacking-000000a.svg?style=for-the-badge&logo=Ethereum&logoColor=black)
+
+---
 
 #### Tools and DataBase
 ##### DataBase
