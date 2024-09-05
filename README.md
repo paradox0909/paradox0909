@@ -32,6 +32,10 @@
 ##### Kisa, Findthegap - 2024년 버그헌팅 실습 훈련 중급 과정 (24.08.26 ~ 24.09.08)
 ##### Kisa, Findthegap - 2024년 버그헌팅 버그헌팅 실습 훈련 - 스타트업연계과정 (24.09.02 ~ 24.09.05)
 --- 
+##### Found Bug Bounty List (Effectiveness)
+
+
+---
 #### 개인 프로젝트 목록 (추가예정)
 ##### Mail Security
 - https://github.com/paradox0909/mail_security
