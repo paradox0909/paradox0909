@@ -33,7 +33,7 @@
 ##### Kisa, Findthegap - 2024년 버그헌팅 버그헌팅 실습 훈련 - 스타트업연계과정 (24.09.02 ~ 24.09.05)
 --- 
 ##### Found Bug Bounty List (Effectiveness)
-
+Still Yet @_@
 
 ---
 #### 개인 프로젝트 목록 (추가예정)
