@@ -9,10 +9,10 @@
 
 하기 서술된 기술 스택을 내림차순 순서대로 자유로운 구사 및 사용 및 응용이 가능합니다.
 
-### 경력
+### Career
 - Findthegap, 파인더갭 (2024.09 ~ 2024.10.31)
 
-### 소프트웨어 교육 목록
+### Software Education List
 
 ##### 단국대학교부속소프트웨어고등학교 IoT SoftWare 학과
 - 졸업 예정 (2025.02)
@@ -32,7 +32,8 @@
 ##### Kisa, Findthegap - 2024년 버그헌팅 실습 훈련 중급 과정 (24.08.26 ~ 24.09.08)
 ##### Kisa, Findthegap - 2024년 버그헌팅 버그헌팅 실습 훈련 - 스타트업연계과정 (24.09.02 ~ 24.09.05)
 --- 
-##### Valid Bug Bounty Vulnerabilities Found
+##### Valid Bug Bounty Vulnerabilities Found (No Target Exposure) 
+????? : Discovery of internal error message exposure vulnerabilities in the cloud due to Xss
 Still Yet @_@
 
 ---
