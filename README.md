@@ -32,7 +32,7 @@
 ##### Kisa, Findthegap - 2024년 버그헌팅 실습 훈련 중급 과정 (24.08.26 ~ 24.09.08)
 ##### Kisa, Findthegap - 2024년 버그헌팅 버그헌팅 실습 훈련 - 스타트업연계과정 (24.09.02 ~ 24.09.05)
 --- 
-##### Found Bug Bounty List (Effectiveness)
+##### Valid Bug Bounty Vulnerabilities Found
 Still Yet @_@
 
 ---
