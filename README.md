@@ -34,7 +34,7 @@
 --- 
 ##### Valid Bug Bounty Vulnerabilities Found (No Target Exposure) 
 - ????? : Discovery of internal error message exposure vulnerabilities in the cloud due to Xss
-Still Yet @_@
+- Still Yet @_@
 
 ---
 #### 개인 프로젝트 목록 (추가예정)
