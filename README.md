@@ -33,8 +33,9 @@
 ##### Kisa, Findthegap - 2024년 버그헌팅 버그헌팅 실습 훈련 - 스타트업연계과정 (24.09.02 ~ 24.09.05)
 --- 
 ##### Valid Bug Bounty Vulnerabilities Found (No Target Exposure) 
-- ????? : Discovery of internal error message exposure vulnerabilities in the cloud due to Xss
-- Still Yet @_@
+- ????? : Discovery of internal error message exposure vulnerabilities in the cloud due to Xss payload
+- will be add soon... (っ´ω`)っ
+
 
 ---
 #### 개인 프로젝트 목록 (추가예정)
