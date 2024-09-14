@@ -44,7 +44,7 @@
 ##### CCE Vulnerability Checker
 - https://github.com/paradox0909/cce
 ##### Zap Proxy Ai Analyzer
-- https:///github.com/paradox09909/zap_ai_analyer
+- https://github.com/paradox09909/zap_ai_analyer
 ##### ※ 프로젝트는 끊기지 않습니다 (추가 예정)
 ---
 <!--
