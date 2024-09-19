@@ -75,6 +75,7 @@ Here are some ideas to get you started:
 ### Offensive Skills 
 - ![Web Hacking](https://img.shields.io/badge/Web_hacking-000000a.svg?style=for-the-badge&logo=gnu-bash&logoColor=black)
 - ![BlockChain Hacking](https://img.shields.io/badge/BlockChain_hacking-000000a.svg?style=for-the-badge&logo=Ethereum&logoColor=black)
+- ![Reversing](https://img.shields.io/badge/Reversing-000000a.svg?style=for-the-badge&logo=Reversing&logoColor=black)
 
 ---
 
@@ -96,7 +97,7 @@ Here are some ideas to get you started:
 ### Interested In...
 
 ####
-##### Hacking_Education & Teaching
+##### Code-Based Hacking Education & Teaching
   - https://github.com/paradox0909/file_upload_vlun_practice
   - https://github.com/paradox0909/Injection_Practice_Form
   - https://github.com/paradox0909/cve-2022-30333_online_rar_extracor
