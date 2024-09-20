@@ -45,7 +45,7 @@
 - https://github.com/paradox0909/cce
 ##### Zap Proxy Ai Analyzer
 - https://github.com/paradox09909/zap_ai_analyer
-##### ※ 프로젝트는 끊기지 않습니다 (추가 예정)
+##### will be add soon... (っ´ω`)っ
 ---
 <!--
 **paradox0909/paradox0909** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
