@@ -74,7 +74,7 @@ Here are some ideas to get you started:
 
 ### Offensive Skills 
 - ![Web Hacking](https://img.shields.io/badge/Web_hacking-000000a.svg?style=for-the-badge&logo=gnu-bash&logoColor=black)
-- ![Mobile](https://img.shields.io/badge/Mobile-000000a.svg?style=for-the-badge&logo=phone&logoColor=black)
+- ![Mobile](https://img.shields.io/badge/Mobile-000000a.svg?style=for-the-badge&logo=gnu-bash&logoColor=black)
 - ![Reversing](https://img.shields.io/badge/Reversing-000000a.svg?style=for-the-badge&logo=gnu-bash&logoColor=black)
 - ![BlockChain Hacking](https://img.shields.io/badge/BlockChain_hacking-000000a.svg?style=for-the-badge&logo=Ethereum&logoColor=black)
 
