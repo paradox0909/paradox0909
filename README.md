@@ -12,6 +12,12 @@
 ### Career
 - Findthegap, 파인더갭 (2024.10.02 ~ ING)
 
+### 재학 중
+
+##### 단국대학교부속소프트웨어고등학교 IoT SoftWare 학과
+- 졸업 예정 (2025.02)
+
+
 ### Software Education List
 
 ##### 단국대학교부속소프트웨어고등학교 IoT SoftWare 학과
