@@ -12,20 +12,17 @@
 ### Career
 - Findthegap, 파인더갭 (2024.10.02 ~ ING)
   - 주 업무 :
-      - 보안제품개발
-      - 모의침투테스트
-      - 버그바운티 레포트 검수
-
-### 재학 중
+      - Develop Security Product
+      - penetration Testing
+      - Security Consulting
+      - Evaluation BugBounty Report
+### 학력
 
 ##### 단국대학교부속소프트웨어고등학교 IoT SoftWare 학과
-- 졸업 예정 (2025.02)
+- 졸업
 
 
 ### Software Education List
-
-##### 단국대학교부속소프트웨어고등학교 IoT SoftWare 학과
-- 졸업 예정 (2025.02)
 
 ##### 차세대 보안리더 양성 프로그램 (Best Of the Best) 12기 (23.07 ~ 24.03)
 - 보안제품개발트랙 수료
@@ -76,11 +73,14 @@ Here are some ideas to get you started:
 #### Developing Skills
 - ![Python](https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
   - ![Selenium](https://img.shields.io/badge/selenium-43B02A.svg?style=for-the-badge&logo=selenium&logoColor=white)
-  - ![Flask](https://img.shields.io/badge/flask-43B02A.svg?style=for-the-badge&logo=flask&logoColor=white)
+  - ![Flask](https://img.shields.io/badge/flask-000000.svg?style=for-the-badge&logo=flask&logoColor=white)
+  - ![FastAPI](https://img.shields.io/badge/fastapi-009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
 - ![Rust](https://img.shields.io/badge/rust-orange.svg?style=for-the-badge&logo=rust&logoColor=white)
   - ![actix_web](https://img.shields.io/badge/actix_web-5176b6.svg?style=for-the-badge&logo=rust&logoColor=white)
 - ![Shell Script](https://img.shields.io/badge/shell_script-5391FE.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 - ![Solidity](https://img.shields.io/badge/Solidity-3C3C3D?style=for-the-badge&logo=Solidity&logoColor=white)
+- ![React](https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+
 
 ### Offensive Skills 
 - ![Web Hacking](https://img.shields.io/badge/Web_hacking-000000a.svg?style=for-the-badge&logo=gnu-bash&logoColor=black)
