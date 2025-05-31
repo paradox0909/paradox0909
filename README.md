@@ -69,33 +69,30 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### 기술 스택
-
 ### 🚀 Developing Skills
 
-#### 🐍 Python
+#### 🧠 Programming Languages
 ![Python](https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-&nbsp;
-![Selenium](https://img.shields.io/badge/selenium-43B02A.svg?style=for-the-badge&logo=selenium&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-000000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/fastapi-009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/django-092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-
-#### 🦀 Rust
 ![Rust](https://img.shields.io/badge/rust-orange.svg?style=for-the-badge&logo=rust&logoColor=white)
-&nbsp;
-![Actix Web](https://img.shields.io/badge/actix_web-5176b6.svg?style=for-the-badge&logo=rust&logoColor=white)
-
-#### 🐚 Script
 ![Shell Script](https://img.shields.io/badge/shell_script-5391FE.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Batch](https://img.shields.io/badge/batch-4B4B4B.svg?style=for-the-badge)
 
-#### 🌐 Web Backend
+---
+
+#### 🖥️ Backend Frameworks
+![Flask](https://img.shields.io/badge/flask-000000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/fastapi-009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/django-092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Actix Web](https://img.shields.io/badge/actix_web-5176b6.svg?style=for-the-badge&logo=rust&logoColor=white)
 
-#### 💻 Frontend & Blockchain
+---
+
+#### 🌐 Frontend / Web3
 ![React](https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
 ![Solidity](https://img.shields.io/badge/solidity-3C3C3D?style=for-the-badge&logo=solidity&logoColor=white)
+
 
 
 ---
