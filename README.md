@@ -74,8 +74,6 @@ Here are some ideas to get you started:
 #### 🌐 Programming Languages
 ![Python](https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-orange.svg?style=for-the-badge&logo=rust&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 ---
 
