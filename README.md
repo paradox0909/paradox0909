@@ -108,17 +108,27 @@ Here are some ideas to get you started:
 ![Oracle DB](https://img.shields.io/badge/oracle_db-F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
 
-##### ☁️ AWS
+---
 
-![Amazon Web Services](https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
-![EC2](https://img.shields.io/badge/EC2-FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
-![ECR](https://img.shields.io/badge/ECR-FF9900.svg?style=for-the-badge&logo=docker&logoColor=white)
-![CodePipeline](https://img.shields.io/badge/CodePipeline-FF4F8B.svg?style=for-the-badge&logo=aws-codepipeline&logoColor=white)
-![CodeBuild](https://img.shields.io/badge/CodeBuild-00A1C9.svg?style=for-the-badge&logo=aws-codebuild&logoColor=white)
+### 🛡️ DevSecOps & Cloud Infrastructure
 
+AWS 기반의 인프라 자동화 및 보안 중심 배포 환경을 경험했습니다.
 
-##### Docker
-![Docker](https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+- **CI/CD 파이프라인 구축 및 자동화**  
+  ![CodePipeline](https://img.shields.io/badge/CodePipeline-FF4F8B.svg?style=for-the-badge&logo=aws-codepipeline&logoColor=white)
+  ![CodeBuild](https://img.shields.io/badge/CodeBuild-00A1C9.svg?style=for-the-badge&logo=aws-codebuild&logoColor=white)
+  > GitHub와 연동된 배포 자동화 (테스트 → 빌드 → 배포) 구성 경험  
+
+- **컨테이너 이미지 관리 및 배포**  
+  ![ECR](https://img.shields.io/badge/ECR-FF9900.svg?style=for-the-badge&logo=docker&logoColor=white)
+  > Docker 이미지 보안 스캔 및 버전 관리 포함 운영  
+
+- **보안 강화된 EC2 운영 및 배포**  
+  ![EC2](https://img.shields.io/badge/EC2-FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
+  > Bastion host 및 RDS설정, 최소 권한 IAM 정책 적용 경험  
+
+- **전체 클라우드 운영 플랫폼**  
+  ![Amazon Web Services](https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ---
 
