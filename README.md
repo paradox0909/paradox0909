@@ -1,6 +1,6 @@
 ##### 안녕하세요, 명준우입니다! 👐🖖🖖
-[Find the gap, 파인더갭](http://findthegap.co.kr) 이라는
-국내 최대 버그바운티 플랫폼에서 Security Engineer를 담당하고 있는 명준우라고 합니다.
+[Find The Gap, 파인더갭](http://findthegap.co.kr) 이라는
+국내 최대 버그바운티 플랫폼에서 Security Researcher를 담당하고 있는 명준우라고 합니다.
 
 ---
 
@@ -70,23 +70,33 @@ Here are some ideas to get you started:
 -->
 ### 기술 스택
 
-#### Developing Skills
-- ![Python](https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-  - ![Selenium](https://img.shields.io/badge/selenium-43B02A.svg?style=for-the-badge&logo=selenium&logoColor=white)
-  - ![Flask](https://img.shields.io/badge/flask-000000.svg?style=for-the-badge&logo=flask&logoColor=white)
-  - ![FastAPI](https://img.shields.io/badge/fastapi-009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
-- ![Rust](https://img.shields.io/badge/rust-orange.svg?style=for-the-badge&logo=rust&logoColor=white)
-  - ![actix_web](https://img.shields.io/badge/actix_web-5176b6.svg?style=for-the-badge&logo=rust&logoColor=white)
-- ![Shell Script](https://img.shields.io/badge/shell_script-5391FE.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-- ![Solidity](https://img.shields.io/badge/Solidity-3C3C3D?style=for-the-badge&logo=Solidity&logoColor=white)
-- ![React](https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+### 🚀 Developing Skills
 
+#### 🐍 Python
+![Python](https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+&nbsp;
+![Selenium](https://img.shields.io/badge/selenium-43B02A.svg?style=for-the-badge&logo=selenium&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-000000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/fastapi-009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/django-092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
-### Offensive Skills 
-- ![Web Hacking](https://img.shields.io/badge/Web_hacking-000000a.svg?style=for-the-badge&logo=gnu-bash&logoColor=black)
-- ![Mobile](https://img.shields.io/badge/Mobile-000000a.svg?style=for-the-badge&logo=gnu-bash&logoColor=black)
-- ![Reversing](https://img.shields.io/badge/Reversing-000000a.svg?style=for-the-badge&logo=gnu-bash&logoColor=black)
-- ![BlockChain Hacking](https://img.shields.io/badge/BlockChain_hacking-000000a.svg?style=for-the-badge&logo=Ethereum&logoColor=black)
+#### 🦀 Rust
+![Rust](https://img.shields.io/badge/rust-orange.svg?style=for-the-badge&logo=rust&logoColor=white)
+&nbsp;
+![Actix Web](https://img.shields.io/badge/actix_web-5176b6.svg?style=for-the-badge&logo=rust&logoColor=white)
+
+#### 🐚 Script
+![Shell Script](https://img.shields.io/badge/shell_script-5391FE.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Batch](https://img.shields.io/badge/batch-4B4B4B.svg?style=for-the-badge)
+
+#### 🌐 Web Backend
+![NestJS](https://img.shields.io/badge/nestjs-E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+
+#### 💻 Frontend & Blockchain
+![React](https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![Solidity](https://img.shields.io/badge/solidity-3C3C3D?style=for-the-badge&logo=solidity&logoColor=white)
+
 
 ---
 
