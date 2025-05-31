@@ -108,8 +108,14 @@ Here are some ideas to get you started:
 ![Oracle DB](https://img.shields.io/badge/oracle_db-F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
 
-##### AWS - EC2
+##### ☁️ AWS
+
 ![Amazon Web Services](https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
+![EC2](https://img.shields.io/badge/EC2-FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
+![ECR](https://img.shields.io/badge/ECR-FF9900.svg?style=for-the-badge&logo=docker&logoColor=white)
+![CodePipeline](https://img.shields.io/badge/CodePipeline-FF4F8B.svg?style=for-the-badge&logo=aws-codepipeline&logoColor=white)
+![CodeBuild](https://img.shields.io/badge/CodeBuild-00A1C9.svg?style=for-the-badge&logo=aws-codebuild&logoColor=white)
+
 
 ##### Docker
 ![Docker](https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
