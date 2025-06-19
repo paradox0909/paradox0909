@@ -13,8 +13,8 @@
 - Findthegap, 파인더갭 (2024.10.02 ~ ING)
   - 주 업무 :
       - Develop Security Product
-      - penetration Testing
-      - Security Consulting
+      - Platform Develop
+      - Security Consulting (Infrastructure, Penetration Testing) 
       - Evaluation BugBounty Report
 ### 학력
 
@@ -104,32 +104,26 @@ Here are some ideas to get you started:
 #### Tools and DataBase
 ##### DataBase
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/mssql-CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Oracle DB](https://img.shields.io/badge/oracle_db-F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 
 ### 🛡️ DevSecOps & Cloud Infrastructure
 
-AWS 기반의 인프라 자동화 및 보안 중심 배포 환경을 경험했습니다.
-
-- **CI/CD 파이프라인 구축 및 자동화**  
+- **CI/CD Pipeline**  
   ![CodePipeline](https://img.shields.io/badge/CodePipeline-FF4F8B.svg?style=for-the-badge&logo=aws-codepipeline&logoColor=white)
   ![CodeBuild](https://img.shields.io/badge/CodeBuild-00A1C9.svg?style=for-the-badge&logo=aws-codebuild&logoColor=white)
   > GitHub와 연동된 배포 자동화 (테스트 → 빌드 → 배포) 구성 경험  
 
 - **컨테이너 이미지 관리 및 배포**  
   ![ECR](https://img.shields.io/badge/ECR-FF9900.svg?style=for-the-badge&logo=docker&logoColor=white)
+  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+
   > Docker 이미지 보안 스캔 및 버전 관리 포함 운영  
 
 - **보안 강화된 EC2 운영 및 배포**  
   ![EC2](https://img.shields.io/badge/EC2-FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
-  > Bastion host 및 RDS설정, 최소 권한 IAM 정책 적용 경험  
-
-- **전체 클라우드 운영 플랫폼**  
-  ![Amazon Web Services](https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
-
+  > 주정통 기반 체크리스트가 완료된 EC2를 AMI로 배포
 ---
 
 ### Interested In...
